@@ -4,9 +4,17 @@ approvers:
 - msau42
 - saad-ali
 reviewers:
-- davidz627
+- chrishenzie
+- jiawei0227
+- jingxu97
 - jsafrane
 - lpabon
+- mattcary
 - msau42
 - saad-ali
-- sbezverk
+- saikat-royc
+- verult
+
+#emeritus_reviewers:
+#- davidz627
+#- sbezverk
